@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/daemon.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/daemonmanager.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/hybdev.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/loader1.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/loader2.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mpi.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mpiExp.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mpj.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mpjbuf.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mpjdev.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/mxdev.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/niodev.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/runtimecommon.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/smpdev.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/starter.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/tools.jar"/>
+	<classpathentry kind="lib" path="/mpj-v0_44/lib/xdev.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
